@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "GlasgowMedium";
+  src: url('../fonts/Glasgow-Medium.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "InterstateBoldCondensed";
+  src: url("../fonts/InterstateBoldCondensed.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "LadyCopra";
+  src: url('../fonts/LadyCopra.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: italic;
+  src: url(../fonts/georgia-italic.ttf);
+}
